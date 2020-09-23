@@ -48,3 +48,11 @@ test/regression/testfuncs.sh
 test/unit/testfuncs.sh
 swig/sphinxbase_wrap.c
 /.vs/sphinxbase/v16
+/bin/Debug/Win32
+/win32/sphinxbase/Debug/Win32
+/win32/sphinx_cepview/Debug/Win32
+/win32/sphinx_fe/Debug/Win32
+/win32/sphinx_jsgf2fsg/Debug/Win32
+/win32/sphinx_lm_convert/Debug/Win32
+/win32/sphinx_pitch/Debug/Win32
+/win32/sphinx_seg/Debug/Win32
