@@ -47,3 +47,4 @@ test-driver
 test/regression/testfuncs.sh
 test/unit/testfuncs.sh
 swig/sphinxbase_wrap.c
+/.vs/sphinxbase/v16
